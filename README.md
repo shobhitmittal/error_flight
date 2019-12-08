@@ -30,7 +30,7 @@ Error_Flight
 
 - **Demo Link**: _(if any, this might contain a website/ mobile application link/ short video, etc.)_
 
-http://20.42.32.62/
+http://20.42.32.62/home
 
 
 ## 🔥 Your Pitch
