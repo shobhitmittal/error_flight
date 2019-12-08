@@ -31,6 +31,7 @@ http://20.42.32.62/
 
 ## 🔥 Your Pitch
 _Kindly write a pitch for your project. Please do not use more than 500 words_
+
 Today everyone living far from home faces the hassle of booking flight tickets which are often connecting flights. The problem with connecting flights is they are always from the same airline which wastage of time(like layovers etc.)
 "Error_Flight" allows the user to search connecting flights from multiple airlines.
 Suppose Bangalore to Delhi flight via Mumbai. Using "Error_Flight" the user can find out Bangalore to Mumbai flight from Indigo and Mumbai to Delhi from Air-India.
